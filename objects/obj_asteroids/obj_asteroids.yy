@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object2",
+  "name": "obj_asteroids",
   "tags": [],
   "resourceType": "GMObject",
 }

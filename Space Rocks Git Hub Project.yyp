@@ -5,7 +5,7 @@
     {"id":{"name":"spr_medium_asteroid","path":"sprites/spr_medium_asteroid/spr_medium_asteroid.yy",},"order":2,},
     {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},"order":0,},
     {"id":{"name":"spr_small_asteroid","path":"sprites/spr_small_asteroid/spr_small_asteroid.yy",},"order":1,},
-    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":1,},
+    {"id":{"name":"obj_asteroids","path":"objects/obj_asteroids/obj_asteroids.yy",},"order":1,},
     {"id":{"name":"Rm_game","path":"rooms/Rm_game/Rm_game.yy",},"order":0,},
   ],
   "Options": [
