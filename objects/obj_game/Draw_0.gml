@@ -34,7 +34,7 @@ SPACE: shoot
 		);
 		draw_text(
 			room_width/2, 300,
-"PRESS ENTER TO RESTART"
+		"PRESS ENTER TO RESTART"
 		);
 		draw_set_halign(fa_left);
 		break;
@@ -48,11 +48,11 @@ SPACE: shoot
 		);
 		draw_text(
 			room_width/2, 250,
-"FINAL SCORE: "+string(score);
+		"FINAL SCORE: "+string(score)
 		);
 		draw_text(
-			room_width/2, 250,
-"PRESS ENTER TO RESTART"
+			room_width/2, 300,
+		"PRESS ENTER TO RESTART"
 		);
 		draw_set_halign(fa_left);
 		break;
