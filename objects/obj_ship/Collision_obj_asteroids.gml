@@ -1,0 +1,1 @@
+Type instance_destroy()
